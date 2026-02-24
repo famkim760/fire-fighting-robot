@@ -1,2 +1,2 @@
 # fire-fighting-robot
-graduation project
+Final year graduation project - Arduino-based Firefighting Robot
